@@ -2,9 +2,11 @@
 
 ## LECTURE 1 - 2021.07.01
 
-### HOMEWORK
+### Test
 
-Setup GIT
+### HOMEWORK
+  
+  Setup GIT
 Tutorial - https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
 
 ### LINKS
