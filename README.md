@@ -1,1 +1,3 @@
 # .NET-LECTURES
+
+### LECTURE 1 - 2021.07.01
