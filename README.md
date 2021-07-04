@@ -23,3 +23,4 @@
                 https://www.w3schools.com/cs/index.php
     
     Value types vs Reference types - https://www.youtube.com/watch?v=mvieNUe9Urs&t=335s
+    String interpolation - https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated
