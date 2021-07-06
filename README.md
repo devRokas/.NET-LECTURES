@@ -25,3 +25,11 @@
     Value types vs Reference types - https://www.youtube.com/watch?v=mvieNUe9Urs&t=335s
     String interpolation - https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated
     Methods - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods
+    
+        
+## LECTURE 3 - 2021.07.05   
+
+### LINKS
+    String builder - https://docs.microsoft.com/en-us/dotnet/standard/base-types/stringbuilder
+    String class - https://docs.microsoft.com/en-us/dotnet/api/system.string?view=net-5.0
+
