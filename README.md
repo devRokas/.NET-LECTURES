@@ -23,10 +23,3 @@
                 https://www.w3schools.com/cs/index.php
     
     Value types vs Reference types - https://www.youtube.com/watch?v=mvieNUe9Urs&t=335s
-    
-    
-## LECTURE 3 - 2021.07.05   
-
-### LINKS
-    String builder - https://docs.microsoft.com/en-us/dotnet/standard/base-types/stringbuilder
-    String class - https://docs.microsoft.com/en-us/dotnet/api/system.string?view=net-5.0
