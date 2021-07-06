@@ -33,3 +33,7 @@
     String builder - https://docs.microsoft.com/en-us/dotnet/standard/base-types/stringbuilder
     String class - https://docs.microsoft.com/en-us/dotnet/api/system.string?view=net-5.0
 
+## LECTURE 4 - 2021.07.06   
+
+### LINKS
+    Try-catch - https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch
