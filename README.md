@@ -43,3 +43,4 @@
 ### LINKS
     Classes and object - https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/classes
     "Recursion: ... for more information, see Recursion." - https://www.sparknotes.com/cs/recursion/whatisrecursion/section1/
+    Static - https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static
