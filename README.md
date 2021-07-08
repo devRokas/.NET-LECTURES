@@ -44,3 +44,11 @@
     Classes and object - https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/classes
     "Recursion: ... for more information, see Recursion." - https://www.sparknotes.com/cs/recursion/whatisrecursion/section1/
     Static - https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static
+    
+## LECTURE 6 - 2021.07.08   
+
+### LINKS
+    Enums - https://www.youtube.com/watch?v=eV3WQxvKk0g
+    C# List - https://www.c-sharpcorner.com/article/c-sharp-list/
+    Exercise "Tank" - https://docs.google.com/presentation/d/1330oLte_RnjHfKugZr1pv9PeRRPYGVNyx6kaswF6GtA/edit#slide=id.p1
+    
