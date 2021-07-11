@@ -45,7 +45,7 @@
     "Recursion: ... for more information, see Recursion." - https://www.sparknotes.com/cs/recursion/whatisrecursion/section1/
     Static - https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/static
     
-## LECTURE 6 - 2021.07.08   
+## LECTURE 6 & 7 - 2021.07.08   
 
 ### LINKS
     Enums - https://www.youtube.com/watch?v=eV3WQxvKk0g
