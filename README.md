@@ -57,3 +57,8 @@
 ### LINKS
     Encapsulation - https://www.geeksforgeeks.org/c-sharp-encapsulation/
                     https://www.youtube.com/watch?v=6Ez3eNGZnCk
+
+## LECTURE 10 - 2021.07.13   
+
+### LINKS
+    Inheritance - https://www.geeksforgeeks.org/c-sharp-inheritance/
