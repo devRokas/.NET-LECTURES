@@ -62,3 +62,9 @@
 
 ### LINKS
     Inheritance - https://www.geeksforgeeks.org/c-sharp-inheritance/
+    
+## LECTURE 11 - 2021.07.14   
+
+### LINKS
+    Method overriding - https://www.youtube.com/watch?v=ToKbMa3xvMs
+    Value types vs Reference types revisited - https://www.youtube.com/watch?v=KGFAnwkO0Pk
