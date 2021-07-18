@@ -78,4 +78,4 @@
 ## LECTURE 13 - 2021.07.18   
 
 ### LINKS
-    Abstract class - https://www.c-sharpcorner.com/UploadFile/annathurai/abstract-class-in-C-Sharp/
+    Abstract class - https://www.geeksforgeeks.org/c-sharp-abstraction/?ref=lbp
