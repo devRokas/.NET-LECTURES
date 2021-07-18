@@ -68,3 +68,14 @@
 ### LINKS
     Method overriding - https://www.youtube.com/watch?v=ToKbMa3xvMs
     Value types vs Reference types revisited - https://www.youtube.com/watch?v=KGFAnwkO0Pk
+
+## LECTURE 12 - 2021.07.15   
+
+### LINKS
+    Object class in C# - https://www.geeksforgeeks.org/c-sharp-object-class/
+    Feedback form - https://forms.gle/ZbDuDJBxWCUWnCXq7
+    
+## LECTURE 13 - 2021.07.18   
+
+### LINKS
+    Abstract class - https://www.c-sharpcorner.com/UploadFile/annathurai/abstract-class-in-C-Sharp/
