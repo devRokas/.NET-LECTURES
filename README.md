@@ -83,7 +83,7 @@
 ## LECTURE 14 - 2021.07.19   
 
 ### LINKS
-    Polymophism - https://www.youtube.com/watch?v=qE7a0XQ2SH8
+    Polymorphism - https://www.youtube.com/watch?v=qE7a0XQ2SH8
     
 ## LECTURE 15 - 2021.07.20   
 
