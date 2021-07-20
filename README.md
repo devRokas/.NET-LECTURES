@@ -79,3 +79,24 @@
 
 ### LINKS
     Abstract class - https://www.geeksforgeeks.org/c-sharp-abstraction/?ref=lbp
+    
+## LECTURE 14 - 2021.07.19   
+
+### LINKS
+    Polymophism - https://www.youtube.com/watch?v=qE7a0XQ2SH8
+    
+## LECTURE 15 - 2021.07.20   
+
+### LINKS
+    Interface - https://www.youtube.com/watch?v=aQ8YkJrAbzE
+    
+### EXERCISE
+    Sukurti parduotuvę, kuri parduoda saldainius, knygas, puodukus.
+    Jie visi turi pavadinimą, kiekį. Programa turėtų nepasibaigti įrašius tik vieną komandą, turėtų leisti kelias. 
+    Reikia panaudoti objektinį programavimą.
+
+    Galimos komandos konsolėje:
+    "List" išspausdina informacija, ką galima nusipirkti parduotuvėje, koks kiekis ir kokios kainos. Išpirktų produktų neturėtų rodyti.
+    "Buy Candy 20" - turėtų nupirkti visus egzistuojančius jeigu toks item egzistuoja parduotuvėje ir yra toks kiekis. Jei ne, turėtų parodyti atitinkamą žinutę.
+    "Add Cup 30" - turėtų papildyti parduotuvę su atitinkamu produktu ir kiekiu. Tai turętų atsivaizduoti ir "List" komandoje.
+    Jei tokiu produktų jau yra, papildyti.
