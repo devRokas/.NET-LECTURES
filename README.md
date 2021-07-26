@@ -100,3 +100,9 @@
     "Buy Candy 20" - turėtų nupirkti visus egzistuojančius jeigu toks item egzistuoja parduotuvėje ir yra toks kiekis. Jei ne, turėtų parodyti atitinkamą žinutę.
     "Add Cup 30" - turėtų papildyti parduotuvę su atitinkamu produktu ir kiekiu. Tai turętų atsivaizduoti ir "List" komandoje.
     Jei tokiu produktų jau yra, papildyti.
+    
+## LECTURE 19 - 2021.07.26
+
+### LINKS
+    Extension methods - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods
+    LINQ - https://www.tutorialsteacher.com/linq/linq-tutorials
