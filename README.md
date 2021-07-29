@@ -112,7 +112,7 @@
 ### LINKS
     Generics - https://www.tutorialsteacher.com/csharp/csharp-generics
     
-## LECTURE 19 - 2021.07.29
+## LECTURE 21 - 2021.07.29
 
 ### LINKS
     Delegates - https://www.tutorialsteacher.com/csharp/csharp-delegates
