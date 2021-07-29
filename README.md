@@ -106,3 +106,13 @@
 ### LINKS
     Extension methods - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods
     LINQ - https://www.tutorialsteacher.com/linq/linq-tutorials
+
+## LECTURE 20 - 2021.07.27
+
+### LINKS
+    Generics - https://www.tutorialsteacher.com/csharp/csharp-generics
+    
+## LECTURE 19 - 2021.07.29
+
+### LINKS
+    Delegates - https://www.tutorialsteacher.com/csharp/csharp-delegates
