@@ -139,6 +139,7 @@
     DateTime - https://www.c-sharpcorner.com/article/datetime-in-c-sharp/
     File.IO - https://www.w3schools.com/cs/cs_files.php
     Repository/Service pattern - https://exceptionnotfound.net/the-repository-service-pattern-with-dependency-injection-and-asp-net-core/
+    3-Tier Architecture - https://www.geeksforgeeks.org/what-is-net-3-tier-architecture/
     FreeCodeCamp - FreeCodeCamp.org
                    https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
     
