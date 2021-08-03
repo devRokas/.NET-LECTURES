@@ -112,7 +112,33 @@
 ### LINKS
     Generics - https://www.tutorialsteacher.com/csharp/csharp-generics
     
-## LECTURE 21 - 2021.07.29
+## LECTURE 21 - 2021.07.28
 
 ### LINKS
     Delegates - https://www.tutorialsteacher.com/csharp/csharp-delegates
+    
+## LECTURE 22, 23, 24, 25 - 2021.07.29
+
+### EXERCISE
+    - Sukurti aplikaciją - "Užrašų knygutė"
+    - Užrašus saugome faile "notes.txt"
+    - "Note" klasė turi:
+ 	    - Id
+ 	    - DateCreated
+ 	    - Title 
+ 	    - Text
+     Galimos komandos konsolėje:
+    - Show all notes - nuskaito visus užrašus iš failo ir atvaizduoja konsolėje užrašo ID ir Title. Pasirinkus konkretų užrašą išvedama visa užrašo informacija.
+    - Add note - įvedamas užrašo "Title" ir "Text" ir jis išsaugomas faile
+    - Edit note - pakoreguoja esama užrašą ir išsaugo pakeitimus faile
+    - Delete note - ištrina konkretų esama užrašą iš failo
+    - Delete all notes - ištrina visus užrašus iš failo
+    
+### LINKS
+    JSON - https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-how-to?pivots=dotnet-5-0
+    DateTime - https://www.c-sharpcorner.com/article/datetime-in-c-sharp/
+    File.IO - https://www.w3schools.com/cs/cs_files.php
+    Repository/Service pattern - https://exceptionnotfound.net/the-repository-service-pattern-with-dependency-injection-and-asp-net-core/
+    FreeCodeCamp - FreeCodeCamp.org
+                   https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+    
