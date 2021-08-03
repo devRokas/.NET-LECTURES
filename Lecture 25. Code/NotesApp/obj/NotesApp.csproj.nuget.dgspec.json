@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/NotesApp/NotesApp.csproj": {}
+  },
+  "projects": {
+    "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/NotesApp/NotesApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/NotesApp/NotesApp.csproj",
+        "projectName": "NotesApp",
+        "projectPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/NotesApp/NotesApp.csproj",
+        "packagesPath": "/Users/rokasdambrauskas/.nuget/packages/",
+        "outputPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/NotesApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rokasdambrauskas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/rokasdambrauskas/.nuget/packages/",
+        "outputPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rokasdambrauskas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
