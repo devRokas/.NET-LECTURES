@@ -142,4 +142,5 @@
     3-Tier Architecture - https://www.geeksforgeeks.org/what-is-net-3-tier-architecture/
     FreeCodeCamp - FreeCodeCamp.org
                    https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+    DDD - https://en.wikipedia.org/wiki/Domain-driven_design
     
