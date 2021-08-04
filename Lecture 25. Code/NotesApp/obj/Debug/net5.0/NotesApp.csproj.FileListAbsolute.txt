@@ -16,3 +16,5 @@
 /Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/NotesApp/bin/Debug/net5.0/Persistence.dll
 /Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/NotesApp/bin/Debug/net5.0/Persistence.pdb
 /Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/NotesApp/obj/Debug/net5.0/NotesApp.csproj.CopyComplete
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/NotesApp/bin/Debug/net5.0/Domain.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/NotesApp/bin/Debug/net5.0/Domain.pdb

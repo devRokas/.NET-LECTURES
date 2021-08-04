@@ -1,0 +1,15 @@
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/bin/Debug/net5.0/Domain.deps.json
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/bin/Debug/net5.0/Domain.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/bin/Debug/net5.0/ref/Domain.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/bin/Debug/net5.0/Domain.pdb
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/bin/Debug/net5.0/Persistence.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/bin/Debug/net5.0/Persistence.pdb
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/obj/Debug/net5.0/Domain.csproj.CopyComplete
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/obj/Debug/net5.0/Domain.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/obj/Debug/net5.0/ref/Domain.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 25. 2021-08-03/Lecture 25. Code/Domain/obj/Debug/net5.0/Domain.pdb

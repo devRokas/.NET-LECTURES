@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using Persistence.Models;
 
@@ -38,9 +37,9 @@ namespace Persistence.Repositories
 
         public void Delete(int id)
         {
-            var allNotes = _fileClient.ReadAll<Note>(FileName).ToList();
+            var allNotes = _fileClient.ReadAll<Note>(FileName);
             var updatedNotes = allNotes.Where(note => note.Id != id);
-            
+         
             _fileClient.WriteAll(FileName, updatedNotes);
         }
 

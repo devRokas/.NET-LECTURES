@@ -4,6 +4,7 @@ namespace Persistence
 {
     public interface IFileClient
     {
+        // C# generic methods
         IEnumerable<T> ReadAll<T>(string fileName);
 
         void Append<T>(string fileName, T item);

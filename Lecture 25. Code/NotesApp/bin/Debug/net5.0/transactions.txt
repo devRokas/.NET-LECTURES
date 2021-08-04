@@ -1,0 +1,1 @@
+{"ShopName":"Shopas","Amount":165465.05,"DateCreated":"2021-08-04T18:43:10.51393+03:00"}

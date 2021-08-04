@@ -1,27 +1,29 @@
 using System;
-using System.IO;
-using Persistence.Repositories;
+using Domain.Services;
+using Persistence.Models;
 
 namespace NotesApp
 {
     public class NoteApp
     {
-        private readonly INotesRepository _notesRepository;
-
-        public NoteApp(INotesRepository notesRepository)
+        private readonly INotesService _notesService;
+        
+        public NoteApp(INotesService notesService)
         {
-            _notesRepository = notesRepository;
+            _notesService = notesService;
         }
 
         public void Start()
         {
                 string text;
-                var title = string.Empty;
+                string title;
+                int id;
+                
                 while (true)
                 {
                     Console.WriteLine("Available commands:");
                     Console.WriteLine("1 - Show all notes");
-                    Console.WriteLine("2 - Save note");
+                    Console.WriteLine("2 - Create note");
                     Console.WriteLine("3 - Edit note");
                     Console.WriteLine("4 - Delete note");
                     Console.WriteLine("5 - Delete all notes");
@@ -31,49 +33,53 @@ namespace NotesApp
                     switch (chosenCommand)
                     {
                         case "1":
-                            // show all notes
-                            var allNotes = _notesRepository.GetAll();
+                            var allNotes = _notesService.GetAll();
+
                             foreach (var note in allNotes)
                             {
-                                if (note.Text.Length > 100)
-                                {
-                                    Console.WriteLine(note.ToString());
-                                }
+                                Console.WriteLine(note);
                             }
-                            
                             break;
                         case "2":
+                            Console.WriteLine("Enter note ID");
+                            id = Convert.ToInt32(Console.ReadLine());
                             Console.WriteLine("Enter note Title:");
                             title = Console.ReadLine();
                             Console.WriteLine("Enter note Text: ");
                             text = Console.ReadLine();
-
-                            File.WriteAllLines("", new string[] {text});
-
-                            // Create note
+                            
+                            _notesService.Create(new Note
+                            {
+                                Id = id,
+                                Title = title,
+                                Text = text,
+                                DateCreated = DateTime.Now
+                            });
                             break;
                         case "3":
                             Console.WriteLine("Enter note ID");
+                            id = Convert.ToInt32(Console.ReadLine());
                             Console.WriteLine("Enter new note Title");
-                            title = (Console.ReadLine());
+                            title = Console.ReadLine();
                             Console.WriteLine("Enter new note Text");
-                            text = (Console.ReadLine());
-
-                            // Edit note
+                            text = Console.ReadLine();
+                            
+                            _notesService.Edit(id, title, text);
                             break;
-
                         case "4":
                             Console.WriteLine("Enter note ID:");
-
-                            // Delete note
+                            id = Convert.ToInt32(Console.ReadLine());
+                            
+                            _notesService.DeleteById(id);
                             break;
                         case "5":
-                            // Delete all notes
+                            _notesService.ClearAll();
+                            Console.WriteLine("All notes were deleted");
                             break;
                         case "6":
                             return;
                     }
-            }
+                }
         }
     }
 }

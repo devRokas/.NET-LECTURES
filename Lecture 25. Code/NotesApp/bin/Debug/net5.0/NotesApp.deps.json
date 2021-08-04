@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v5.0": {
       "NotesApp/1.0.0": {
         "dependencies": {
+          "Domain": "1.0.0",
           "Persistence": "1.0.0"
         },
         "runtime": {
           "NotesApp.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "dependencies": {
+          "Persistence": "1.0.0"
+        },
+        "runtime": {
+          "Domain.dll": {}
         }
       },
       "Persistence/1.0.0": {
@@ -23,6 +32,11 @@
   },
   "libraries": {
     "NotesApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
