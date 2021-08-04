@@ -143,4 +143,4 @@
     FreeCodeCamp - FreeCodeCamp.org
                    https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
     DDD - https://en.wikipedia.org/wiki/Domain-driven_design
-    
+    Dynamic class library - https://www.c-sharpcorner.com/UploadFile/1e050f/creating-and-using-dll-class-library-in-C-Sharp/
