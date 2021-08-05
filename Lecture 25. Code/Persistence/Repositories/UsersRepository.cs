@@ -1,10 +1,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using Persistence.Models;
+using Persistence.Models.ReadModels;
 
 namespace Persistence.Repositories
 {
-    public class UsersRepository : IUsersRepository
+    public class UsersRepository : IUsersRepository, IGDPRRepository
     {
         private const string FileName = "users.txt";
         private readonly IFileClient _fileClient;
@@ -14,9 +15,19 @@ namespace Persistence.Repositories
             _fileClient = fileClient;
         }
         
-        public IEnumerable<User> GetAll()
+        public IEnumerable<UserShortInfoReadModel> GetAll()
         {
-            return _fileClient.ReadAll<User>(FileName);
+            return _fileClient.ReadAll<UserShortInfoReadModel>(FileName);
+        }
+
+        public IEnumerable<UserShortInfoReadModel> GetAllUserInfo()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        IEnumerable<User> IUsersRepository.GetAll()
+        {
+            throw new System.NotImplementedException();
         }
 
         public void Save(User note)

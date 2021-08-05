@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Faker.Net" Version="1.5.138" />
+      <PackageReference Include="Humanizer" Version="2.11.10" />
+    </ItemGroup>
+
+</Project>

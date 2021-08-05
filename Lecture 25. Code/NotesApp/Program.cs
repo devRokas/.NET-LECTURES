@@ -1,6 +1,7 @@
-﻿using Domain.Services;
+﻿using System;
+using Microsoft.Extensions.DependencyInjection;
 using Persistence;
-using Persistence.Repositories;
+using Persistence.Models;
 
 namespace NotesApp
 {
@@ -8,15 +9,24 @@ namespace NotesApp
     {
         public static void Main(string[] args)
         {
-            var fileClient = new FileClient();
-            
-            var notesRepository = new NotesRepository(fileClient);
-   
-            var notesService = new NotesService(notesRepository);
+            var startup = new Startup();
 
-            var noteApp = new NoteApp(notesService);
+            var serviceProvider = startup.ConfigureServices();
+
+            var noteApp = serviceProvider.GetService<NoteApp>();
+
+            var fileService = serviceProvider.GetService<IFileClient>();
+
+            var notes = fileService.ReadAll<Note>("notes.txt");
+
+            foreach (var note in notes)
+            {
+                Console.WriteLine(note);
+            }
             
-            noteApp.Start();
+            
+
+            // noteApp.Start();
         }
     }
 }

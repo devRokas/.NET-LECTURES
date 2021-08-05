@@ -4,7 +4,7 @@ using Persistence.Models;
 
 namespace Persistence.Repositories
 {
-    public class NotesRepository : INotesRepository
+    public class NotesRepository : INotesRepository, IGDPRRepository
     {
         private const string FileName = "notes.txt";
         private readonly IFileClient _fileClient;

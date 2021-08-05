@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{342DE162-1278-47C5-9754-75689695A7CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningNuget", "LearningNuget\LearningNuget.csproj", "{373F6C24-57D4-49D1-A995-F51772402957}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{342DE162-1278-47C5-9754-75689695A7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{342DE162-1278-47C5-9754-75689695A7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{342DE162-1278-47C5-9754-75689695A7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{373F6C24-57D4-49D1-A995-F51772402957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373F6C24-57D4-49D1-A995-F51772402957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373F6C24-57D4-49D1-A995-F51772402957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373F6C24-57D4-49D1-A995-F51772402957}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
