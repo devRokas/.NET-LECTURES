@@ -117,7 +117,7 @@
 ### LINKS
     Delegates - https://www.tutorialsteacher.com/csharp/csharp-delegates
     
-## LECTURE 22, 23, 24, 25 - 2021.07.29
+## LECTURE 22, 23, 24, 25, 26 - 2021.07.29
 
 ### EXERCISE
     - Sukurti aplikaciją - "Užrašų knygutė"
@@ -144,3 +144,17 @@
                    https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
     DDD - https://en.wikipedia.org/wiki/Domain-driven_design
     Dynamic class library - https://www.c-sharpcorner.com/UploadFile/1e050f/creating-and-using-dll-class-library-in-C-Sharp/
+
+## LECTURE 27 - 2021.08.05
+
+### LINKS
+    Nuget - https://www.youtube.com/watch?v=WW3bO1lNDmo&list=PLdo4fOcmZ0oVLvfkFk8O9h6v2Dcdh2bh_
+    Inversion of Control - https://www.tutorialsteacher.com/ioc
+
+## LECTURE 28 - 2021.08.06
+
+## LINKS
+   MySql with C# - https://dev.mysql.com/doc/connector-net/en/connector-net-tutorials-sql-command.html
+   
+## HOMEWORK
+   C# Tutorial - https://www.tutorialspoint.com/csharp/index.htm
