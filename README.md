@@ -158,3 +158,9 @@
    
 ## HOMEWORK
     C# Tutorial - https://www.tutorialspoint.com/csharp/index.htm
+    
+## LECTURE 29 - 2021.08.14
+
+## LINKS
+    Dapper - https://dapper-tutorial.net/
+    Yield return - https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/yield
