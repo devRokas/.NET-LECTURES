@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "70ty82I/z+/A3xmX5AxLpuBS7lNKs8q/JsU45xMyjicwDpMZGgyNeahJl5/D8ibjyML7PLFejQojIUVhKVTIfA==",
+  "dgSpecHash": "xc1kEt2VN8pyMDpYov5WQRVpHQ2Zlr3wjNxZQJUUNSHKPh9G9d90zyvpg+iVz0xP9d8jDZh0mOC4t8Kj+G1O0w==",
   "success": true,
   "projectFilePath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 28. 2021-08-06/Lecture 28. Code/Lecture 28/Lecture 28.csproj",
   "expectedPackageFiles": [
     "/Users/rokasdambrauskas/.nuget/packages/bouncycastle.netcore/1.8.5/bouncycastle.netcore.1.8.5.nupkg.sha512",
+    "/Users/rokasdambrauskas/.nuget/packages/faker.net/1.5.138/faker.net.1.5.138.nupkg.sha512",
     "/Users/rokasdambrauskas/.nuget/packages/google.protobuf/3.14.0/google.protobuf.3.14.0.nupkg.sha512",
     "/Users/rokasdambrauskas/.nuget/packages/k4os.compression.lz4/1.1.11/k4os.compression.lz4.1.1.11.nupkg.sha512",
     "/Users/rokasdambrauskas/.nuget/packages/k4os.compression.lz4.streams/1.1.11/k4os.compression.lz4.streams.1.1.11.nupkg.sha512",
@@ -12,6 +13,7 @@
     "/Users/rokasdambrauskas/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "/Users/rokasdambrauskas/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "/Users/rokasdambrauskas/.nuget/packages/mysql.data/8.0.26/mysql.data.8.0.26.nupkg.sha512",
+    "/Users/rokasdambrauskas/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
     "/Users/rokasdambrauskas/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
     "/Users/rokasdambrauskas/.nuget/packages/system.configuration.configurationmanager/4.4.1/system.configuration.configurationmanager.4.4.1.nupkg.sha512",
     "/Users/rokasdambrauskas/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512",

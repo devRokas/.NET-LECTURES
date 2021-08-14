@@ -33,3 +33,5 @@
 /Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 28. 2021-08-06/Lecture 28. Code/Lecture 28/obj/Debug/net5.0/ref/Lecture 28.dll
 /Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 28. 2021-08-06/Lecture 28. Code/Lecture 28/obj/Debug/net5.0/Lecture 28.pdb
 /Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 28. 2021-08-06/Lecture 28. Code/Lecture 28/obj/Debug/net5.0/Lecture 28.genruntimeconfig.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 28. 2021-08-06/Lecture 28. Code/Lecture 28/bin/Debug/net5.0/Faker.Net.5.0.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 28. 2021-08-06/Lecture 28. Code/Lecture 28/bin/Debug/net5.0/de-DE/Faker.Net.5.0.resources.dll
