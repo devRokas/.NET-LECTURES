@@ -13,6 +13,6 @@ namespace Domain.Services
 
         public void DeleteById(int id);
 
-        public void ClearAll();
+        public int ClearAll();
     }
 }

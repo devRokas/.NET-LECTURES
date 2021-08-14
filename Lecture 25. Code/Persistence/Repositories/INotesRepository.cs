@@ -7,12 +7,12 @@ namespace Persistence.Repositories
     {
         IEnumerable<Note> GetAll();
 
-        void Save(Note note);
+        int Save(Note note);
 
-        void Edit(int id, string title, string text);
+        int Edit(int id, string title, string text);
 
-        void Delete(int id);
+        int Delete(int id);
 
-        void DeleteAll();
+        int DeleteAll();
     }
 }

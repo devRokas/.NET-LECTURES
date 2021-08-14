@@ -54,9 +54,9 @@ namespace Domain.Services
             _notesRepository.Delete(id);
         }
 
-        public void ClearAll()
+        public int ClearAll()
         {
-            _notesRepository.DeleteAll();
+            return _notesRepository.DeleteAll();
         }
     }
 }

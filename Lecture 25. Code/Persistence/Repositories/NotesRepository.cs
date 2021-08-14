@@ -1,51 +1,64 @@
 using System.Collections.Generic;
-using System.Linq;
 using Persistence.Models;
 
 namespace Persistence.Repositories
 {
-    public class NotesRepository : INotesRepository, IGDPRRepository
+    public class NotesRepository : INotesRepository
     {
-        private const string FileName = "notes.txt";
-        private readonly IFileClient _fileClient;
-
-        public NotesRepository(IFileClient fileClient)
-        {
-            _fileClient = fileClient;
-        }
+        private const string TableName = "Notes";
+        private readonly ISqlClient _sqlClient;
         
+        public NotesRepository(ISqlClient sqlClient)
+        {
+            _sqlClient = sqlClient;
+        }
+        // CRUD
+        // Create - execute
+        // Read - query
+        // Update - execute
+        // Delete - execute
+
         public IEnumerable<Note> GetAll()
         {
-            return _fileClient.ReadAll<Note>(FileName);
-        }
-
-        public void Save(Note note)
-        {
-            _fileClient.Append(FileName, note);
-        }
-
-        public void Edit(int id, string title, string text)
-        {
-            var allNotes = _fileClient.ReadAll<Note>(FileName).ToList();
-            var noteToUpdate = allNotes.First(note => note.Id == id);
-
-            noteToUpdate.Title = title;
-            noteToUpdate.Text = text;
+            var sql = $"SELECT * FROM {TableName}";
             
-            _fileClient.WriteAll(FileName, allNotes);
+            return _sqlClient.Query<Note>(sql);
         }
 
-        public void Delete(int id)
+        public int Save(Note note)
         {
-            var allNotes = _fileClient.ReadAll<Note>(FileName);
-            var updatedNotes = allNotes.Where(note => note.Id != id);
-         
-            _fileClient.WriteAll(FileName, updatedNotes);
+            var sql = $"INSERT INTO {TableName} (Title, Text, DateCreated) Values (@Title, @Text, @DateCreated)";
+            
+            return _sqlClient.Execute(sql, note);
         }
 
-        public void DeleteAll()
+        public int Edit(int id, string title, string text)
         {
-            _fileClient.DeleteFileContents(FileName);
+            var sql = @$"UPDATE {TableName} SET
+                        Title = @Title,
+                        Text = @Text
+                        WHERE Id = @Id";
+
+            return _sqlClient.Execute(sql, new
+            {
+                Id = id,
+                Title = title,
+                Text = text
+            });
+        }
+
+        public int Delete(int id)
+        {
+            var sql = $"DELETE FROM {TableName} WHERE Id = @Id";
+
+            return _sqlClient.Execute(sql, new {Id = id});
+        }
+
+        public int DeleteAll()
+        {
+            var sql = $"DELETE FROM {TableName}";
+
+            return _sqlClient.Execute(sql);
         }
     }
 }

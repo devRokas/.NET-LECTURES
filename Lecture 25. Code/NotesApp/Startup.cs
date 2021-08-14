@@ -1,8 +1,8 @@
 using System;
 using Domain.Services;
 using Microsoft.Extensions.DependencyInjection;
+using MySql.Data.MySqlClient;
 using Persistence;
-using Persistence.Models;
 using Persistence.Repositories;
 
 namespace NotesApp
@@ -12,19 +12,30 @@ namespace NotesApp
         public IServiceProvider ConfigureServices()
         {
             var services = new ServiceCollection();
-            
-            services.AddTransient<IFileClient, FileClient>();
-            services.AddTransient<IFileClient, SuperFileClient>();
-            
-            services.AddTransient<IGDPRRepository, NotesRepository>();
-            services.AddTransient<IGDPRRepository, UsersRepository>();
-            
+
+            AddSql(services);
             services.AddSingleton<INotesRepository, NotesRepository>();
             services.AddSingleton<INotesService, NotesService>();
-
             services.AddSingleton<NoteApp>();
-
+            
             return services.BuildServiceProvider();
+        }
+
+        private IServiceCollection AddSql(IServiceCollection services)
+        {
+            var connectionStringBuilder = new MySqlConnectionStringBuilder();
+
+            connectionStringBuilder.Server = "localhost";
+            connectionStringBuilder.Port = 3306;
+            connectionStringBuilder.UserID = "root";
+            connectionStringBuilder.Password = "testas";
+            connectionStringBuilder.Database = "LearningSQL";
+
+            var connectionString = connectionStringBuilder.GetConnectionString(true);
+
+            services.AddTransient<ISqlClient>(_ => new SqlClient(connectionString));
+
+            return services;
         }
     }
 }

@@ -1,7 +1,4 @@
-﻿using System;
-using Microsoft.Extensions.DependencyInjection;
-using Persistence;
-using Persistence.Models;
+﻿using Microsoft.Extensions.DependencyInjection;
 
 namespace NotesApp
 {
@@ -15,18 +12,7 @@ namespace NotesApp
 
             var noteApp = serviceProvider.GetService<NoteApp>();
 
-            var fileService = serviceProvider.GetService<IFileClient>();
-
-            var notes = fileService.ReadAll<Note>("notes.txt");
-
-            foreach (var note in notes)
-            {
-                Console.WriteLine(note);
-            }
-            
-            
-
-            // noteApp.Start();
+            noteApp.Start();
         }
     }
 }

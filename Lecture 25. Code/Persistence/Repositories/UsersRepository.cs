@@ -5,7 +5,7 @@ using Persistence.Models.ReadModels;
 
 namespace Persistence.Repositories
 {
-    public class UsersRepository : IUsersRepository, IGDPRRepository
+    public class UsersRepository : IUsersRepository
     {
         private const string FileName = "users.txt";
         private readonly IFileClient _fileClient;

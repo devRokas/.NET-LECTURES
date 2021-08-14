@@ -4,7 +4,7 @@ using Persistence.Models;
 
 namespace NotesApp
 {
-    public class NoteApp
+    public class NoteApp : INoteApp
     {
         private readonly INotesService _notesService;
         
@@ -41,8 +41,6 @@ namespace NotesApp
                             }
                             break;
                         case "2":
-                            Console.WriteLine("Enter note ID");
-                            id = Convert.ToInt32(Console.ReadLine());
                             Console.WriteLine("Enter note Title:");
                             title = Console.ReadLine();
                             Console.WriteLine("Enter note Text: ");
@@ -50,7 +48,6 @@ namespace NotesApp
                             
                             _notesService.Create(new Note
                             {
-                                Id = id,
                                 Title = title,
                                 Text = text,
                                 DateCreated = DateTime.Now
@@ -73,13 +70,18 @@ namespace NotesApp
                             _notesService.DeleteById(id);
                             break;
                         case "5":
-                            _notesService.ClearAll();
-                            Console.WriteLine("All notes were deleted");
+                            var notesDeleted = _notesService.ClearAll();
+                            Console.WriteLine($"{notesDeleted} notes were deleted");
                             break;
                         case "6":
                             return;
                     }
                 }
         }
+    }
+
+    public interface INoteApp
+    {
+        void Start();
     }
 }
