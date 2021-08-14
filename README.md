@@ -154,7 +154,7 @@
 ## LECTURE 28 - 2021.08.06
 
 ## LINKS
-   MySql with C# - https://dev.mysql.com/doc/connector-net/en/connector-net-tutorials-sql-command.html
+    MySql with C# - https://dev.mysql.com/doc/connector-net/en/connector-net-tutorials-sql-command.html
    
 ## HOMEWORK
-   C# Tutorial - https://www.tutorialspoint.com/csharp/index.htm
+    C# Tutorial - https://www.tutorialspoint.com/csharp/index.htm
