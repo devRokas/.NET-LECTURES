@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>Lecture_29</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Dapper" Version="2.0.90" />
+      <PackageReference Include="Dapper.FastCrud" Version="2.5.0.39" />
+      <PackageReference Include="Faker.Net" Version="1.5.138" />
+      <PackageReference Include="MySql.Data" Version="8.0.26" />
+    </ItemGroup>
+
+</Project>
