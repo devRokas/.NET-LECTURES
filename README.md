@@ -164,3 +164,33 @@
 ## LINKS
     Dapper - https://dapper-tutorial.net/
     Yield return - https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/yield
+    
+
+## LECTURE 30 - 2021.08.15
+
+## LINKS
+    Asynchronous programming with async and await - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
+
+## LECTURE 30 - 2021.08.15
+
+### EXERCISE
+    - Sukurti aplikaciją "Recipes app"
+    - Receptus saugome Sql duomenų bazėję
+
+    "Recipe" model:
+	    - Id
+	    - Name
+	    - Description
+	    - Difficulty (Easy, Medium, Hard)
+	    - TimeToComplete (TimeSpan)
+	    - DateCreated
+	
+    Galimos komandos konsolėje:
+    - Show all recipes
+	    Order by:
+	        - TimeToComplete Desc/Asc
+	        - DateCreated Desc/Asc
+    - Add recipe
+    - Edit recipe
+    - Delete recipe
+    - Delete all recipes    
