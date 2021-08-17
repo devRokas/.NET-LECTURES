@@ -171,7 +171,7 @@
 ## LINKS
     Asynchronous programming with async and await - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
 
-## LECTURE 30 - 2021.08.15
+## LECTURE 31 - 2021.08.16
 
 ### EXERCISE
     - Sukurti aplikaciją "Recipes app"
