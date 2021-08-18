@@ -1,0 +1,12 @@
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Contracts/bin/Debug/net5.0/Contracts.deps.json
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Contracts/bin/Debug/net5.0/Contracts.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Contracts/bin/Debug/net5.0/ref/Contracts.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Contracts/bin/Debug/net5.0/Contracts.pdb
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Contracts/obj/Debug/net5.0/Contracts.csproj.AssemblyReference.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Contracts/obj/Debug/net5.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Contracts/obj/Debug/net5.0/Contracts.AssemblyInfoInputs.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Contracts/obj/Debug/net5.0/Contracts.AssemblyInfo.cs
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Contracts/obj/Debug/net5.0/Contracts.csproj.CoreCompileInputs.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Contracts/obj/Debug/net5.0/Contracts.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Contracts/obj/Debug/net5.0/ref/Contracts.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Contracts/obj/Debug/net5.0/Contracts.pdb

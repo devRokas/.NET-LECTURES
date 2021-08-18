@@ -1,0 +1,15 @@
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/bin/Debug/net5.0/Persistence.deps.json
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/bin/Debug/net5.0/Persistence.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/bin/Debug/net5.0/ref/Persistence.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/bin/Debug/net5.0/Persistence.pdb
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/bin/Debug/net5.0/Contracts.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/bin/Debug/net5.0/Contracts.pdb
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/obj/Debug/net5.0/Persistence.csproj.AssemblyReference.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/obj/Debug/net5.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfoInputs.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/obj/Debug/net5.0/Persistence.AssemblyInfo.cs
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/obj/Debug/net5.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/obj/Debug/net5.0/Persistence.csproj.CopyComplete
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/obj/Debug/net5.0/Persistence.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/obj/Debug/net5.0/ref/Persistence.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 32. 2021-08-17/RecipeApp/Persistence/obj/Debug/net5.0/Persistence.pdb
