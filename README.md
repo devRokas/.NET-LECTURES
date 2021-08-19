@@ -200,3 +200,4 @@
 ## LINKS
     HTTP Presentation - https://docs.google.com/presentation/d/1vqhGnMhniZRu80HeTyhTasdd8CjHqBFMpcKqMQdC4xI/edit?usp=sharing
     How does the internet work - https://www.youtube.com/watch?v=zN8YNNHcaZc
+    Fake API - https://jsonplaceholder.typicode.com/
