@@ -171,7 +171,7 @@
 ## LINKS
     Asynchronous programming with async and await - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/
 
-## LECTURE 31 - 2021.08.16
+## LECTURE 31, 32, 33 - 2021.08.16
 
 ### EXERCISE
     - Sukurti aplikaciją "Recipes app"
@@ -194,3 +194,9 @@
     - Edit recipe
     - Delete recipe
     - Delete all recipes    
+
+## LECTURE 34 - 2021.08.19
+
+## LINKS
+    HTTP Presentation - https://docs.google.com/presentation/d/1vqhGnMhniZRu80HeTyhTasdd8CjHqBFMpcKqMQdC4xI/edit?usp=sharing
+    How does the internet work - https://www.youtube.com/watch?v=zN8YNNHcaZc
