@@ -202,3 +202,8 @@
     How does the internet work - https://www.youtube.com/watch?v=zN8YNNHcaZc
     Fake API - https://jsonplaceholder.typicode.com/
     What happens when you type a URL in the browser and press enter? - https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a
+    
+## LECTURE 35 - 2021.08.22
+
+## LINKS
+    HttpClient - https://zetcode.com/csharp/httpclient/
