@@ -1,0 +1,15 @@
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/bin/Debug/net5.0/Lecture 35.deps.json
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/bin/Debug/net5.0/Lecture 35.runtimeconfig.json
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/bin/Debug/net5.0/Lecture 35.runtimeconfig.dev.json
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/bin/Debug/net5.0/Lecture 35.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/bin/Debug/net5.0/ref/Lecture 35.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/bin/Debug/net5.0/Lecture 35.pdb
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/obj/Debug/net5.0/Lecture 35.csproj.AssemblyReference.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/obj/Debug/net5.0/Lecture 35.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/obj/Debug/net5.0/Lecture 35.AssemblyInfoInputs.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/obj/Debug/net5.0/Lecture 35.AssemblyInfo.cs
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/obj/Debug/net5.0/Lecture 35.csproj.CoreCompileInputs.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/obj/Debug/net5.0/Lecture 35.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/obj/Debug/net5.0/ref/Lecture 35.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/obj/Debug/net5.0/Lecture 35.pdb
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 35. 2021-08-22/Lecture 35. Code/Lecture 35/obj/Debug/net5.0/Lecture 35.genruntimeconfig.cache
