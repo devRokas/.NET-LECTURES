@@ -207,3 +207,9 @@
 
 ## LINKS
     HttpClient - https://zetcode.com/csharp/httpclient/
+    
+
+## LECTURE 37 - 2021.08.24
+
+## LINKS
+    IHttpClientFactory - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/http-requests?view=aspnetcore-5.0
