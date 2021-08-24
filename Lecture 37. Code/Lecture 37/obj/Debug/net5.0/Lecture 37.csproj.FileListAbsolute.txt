@@ -1,0 +1,25 @@
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/Lecture 37.deps.json
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/Lecture 37.runtimeconfig.json
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/Lecture 37.runtimeconfig.dev.json
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/Lecture 37.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/ref/Lecture 37.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/Lecture 37.pdb
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/obj/Debug/net5.0/Lecture 37.csproj.AssemblyReference.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/obj/Debug/net5.0/Lecture 37.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/obj/Debug/net5.0/Lecture 37.AssemblyInfoInputs.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/obj/Debug/net5.0/Lecture 37.AssemblyInfo.cs
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/obj/Debug/net5.0/Lecture 37.csproj.CoreCompileInputs.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/obj/Debug/net5.0/Lecture 37.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/obj/Debug/net5.0/ref/Lecture 37.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/obj/Debug/net5.0/Lecture 37.pdb
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/obj/Debug/net5.0/Lecture 37.genruntimeconfig.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/Microsoft.Extensions.Http.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/Microsoft.Extensions.Logging.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/obj/Debug/net5.0/Lecture 37.csproj.CopyComplete

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "N83ChvnJoFPjH5RBmRTPkwP1KPDkKMc+FThOb1XxHTe9Fta21t0W9D6lveiv8f53lD0i7AFdzHJMoAPYqqpziQ==",
+  "success": true,
+  "projectFilePath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 37. 2021-08-24/Lecture 37. Code/Lecture 37/Lecture 37.csproj",
+  "expectedPackageFiles": [
+    "/Users/rokasdambrauskas/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0-preview.7.21377.19/microsoft.extensions.dependencyinjection.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "/Users/rokasdambrauskas/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0-preview.7.21377.19/microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "/Users/rokasdambrauskas/.nuget/packages/microsoft.extensions.http/6.0.0-preview.7.21377.19/microsoft.extensions.http.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "/Users/rokasdambrauskas/.nuget/packages/microsoft.extensions.logging/6.0.0-preview.7.21377.19/microsoft.extensions.logging.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "/Users/rokasdambrauskas/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0-preview.7.21377.19/microsoft.extensions.logging.abstractions.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "/Users/rokasdambrauskas/.nuget/packages/microsoft.extensions.options/6.0.0-preview.7.21377.19/microsoft.extensions.options.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "/Users/rokasdambrauskas/.nuget/packages/microsoft.extensions.primitives/6.0.0-preview.7.21377.19/microsoft.extensions.primitives.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "/Users/rokasdambrauskas/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/rokasdambrauskas/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0-preview.7.21377.19/system.diagnostics.diagnosticsource.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "/Users/rokasdambrauskas/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/rokasdambrauskas/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0-preview.7.21377.19/system.runtime.compilerservices.unsafe.6.0.0-preview.7.21377.19.nupkg.sha512"
+  ],
+  "logs": []
+}
