@@ -1,4 +1,5 @@
 using System;
+using System.Net.Sockets;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Lecture_37
@@ -17,7 +18,10 @@ namespace Lecture_37
             services.AddHttpClient<IJsonPlaceholderClient, JsonPlaceholderClient>(httpClient =>
             {
                 httpClient.BaseAddress = new Uri("https://jsonplaceholder.typicode.com");
+                httpClient.DefaultRequestHeaders.Add("Authorization", "Token token=");
             });
+
+            services.AddSingleton<IJsonPlaceholderService, JsonPlaceholderService>();
 
             return services.BuildServiceProvider();
         }
