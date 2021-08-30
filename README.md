@@ -213,3 +213,20 @@
 
 ## LINKS
     IHttpClientFactory - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/http-requests?view=aspnetcore-5.0
+    
+
+## LECTURE 38, 39 - 2021.08.26
+
+## EXERCISE
+    - Sukurti aplikaciją "Quotes app" (pagal dokumentaciją https://favqs.com/api)
+      Galimos komandos konsolėje:
+	- Show all quotes
+	- Get quote
+	- Add quote
+	- Fav quote
+	
+## LECTURE 40 - 2021.08.30
+
+## LINKS
+    Swagger in .NET Core - https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-5.0&tabs=visual-studio
+    WEB API with ASP.NET Core - https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio 
