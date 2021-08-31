@@ -230,3 +230,29 @@
 ## LINKS
     Swagger in .NET Core - https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-5.0&tabs=visual-studio
     WEB API with ASP.NET Core - https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio 
+
+## LECTURE 41 - 2021.08.31
+
+## LINKS
+    Action result - https://www.c-sharpcorner.com/article/action-result-in-asp-net-mvc/
+    REST API - https://restfulapi.net/
+
+## EXERCISE
+    - Sukurti aplikaciją "Todos app"
+    - TodoItems saugome Sql duomenų bazėję
+
+    "TodoItem" model:
+       - Id
+       - Title
+       - Description
+       - Difficulty (Easy, Medium, Hard)
+       - DateCreated
+
+    RestAPI turi leisti:
+       - Gauti visus TodoItems
+       - Gauti konkretų TodoItem
+       - Pridėti TodoItem
+       - Atnaujinti TodoItem
+       - Ištrinti TodoItem
+
+    Kodas turi būti išskirstytas per atitinkamus projektus
