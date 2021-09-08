@@ -1,0 +1,29 @@
+@keyframes blink {
+    0% {
+        background-color: #198754;
+    }
+    50% {
+        background-color: white;
+    }
+    100% {
+        background-color: #198754;
+    }
+}
+@keyframes blinkred {
+    0% {
+        background-color: #dc3545;
+    }
+    50% {
+        background-color: white;
+    }
+    100% {
+        background-color: #dc3545;
+    }
+}
+.edit-animation {
+    animation: blink 1 1s linear;
+}
+
+.delete-animation {
+    animation: blinkred 1 1s linear;
+}
