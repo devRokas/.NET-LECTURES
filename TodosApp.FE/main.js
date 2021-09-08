@@ -5,6 +5,23 @@ var doneList = document.getElementById("dones");
 var todoInput = document.getElementById("todo-input");
 var editInput = document.getElementById('edit-input');
 
+window.onload = async () => {
+  const todos = await getTodos();
+
+  todos.forEach(todo => {
+    var todoItem = `
+    <div class="border border-1 shadow-sm p-3 mb-3 rounded todo-item" data-id=${todo.id}>
+        <h4 class="mb-3 input-name">${todo.title}</h4>
+        <button type="button" class="btn btn-danger delete">Delete</button>
+        <button type="button" class="btn btn-success move-todo">Move to Done</button>
+        <button type="button" class="btn btn-warning edit" data-bs-toggle="modal"
+            data-bs-target="#edit-modal">Edit</button>
+    </div>
+    `;
+todoList.innerHTML += todoItem;
+  })
+}
+
 todoForm.addEventListener("submit", function (e) {
   e.preventDefault();
 
@@ -29,6 +46,7 @@ todoForm.addEventListener("submit", function (e) {
 // Todo item card actions
 document.addEventListener("click", async function (e) {
   if (e.target.matches(".delete")) {
+    location.reload(); // perkrauna puslapi
     e.target.closest(".todo-item").remove();
     return;
   }
