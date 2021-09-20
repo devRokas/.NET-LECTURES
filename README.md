@@ -231,11 +231,13 @@
     Swagger in .NET Core - https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-5.0&tabs=visual-studio
     WEB API with ASP.NET Core - https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio 
 
-## LECTURE 41 - 2021.08.31
+## LECTURE 41 - 52 - 2021.08.31
 
 ## LINKS
     Action result - https://www.c-sharpcorner.com/article/action-result-in-asp-net-mvc/
     REST API - https://restfulapi.net/
+    ASP.NET Core Filters - https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-5.0    
+    Authentication vs. Authorization - https://www.okta.com/identity-101/authentication-vs-authorization/
 
 ## EXERCISE
     - Sukurti aplikaciją "Todos app"
