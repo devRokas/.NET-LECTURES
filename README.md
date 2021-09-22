@@ -258,3 +258,40 @@
        - Ištrinti TodoItem
 
     Kodas turi būti išskirstytas per atitinkamus projektus
+
+## LECTURE 53 - 2021.09.22
+
+## LINKS
+    Firebase - https://firebase.google.com/
+    Firebase REST API documentation - https://firebase.google.com/docs/reference/rest/auth#section-api-usage
+
+## EXERCISE
+    - Sukurti aplikaciją "Campgrounds app"
+    - Duomenis saugome Sql duomenų bazėję
+
+    RestAPI turi leisti:
+      - CRUD Campgrounds
+      - CRUD Comments
+
+    Pavyzdinis: "Comment" modelis:
+      - Id
+      - Text
+      - UserId
+      - DateCreated
+   
+    Pavyzdinis: "Campground" modelis:
+      - Id
+      - Text
+      - UserId
+      - DateCreated
+   
+    Pavyzdinis: "Image" modelis:
+      - Id
+      - CampgroundId
+      - Url
+
+    Autentifikacija:
+        Useris prisijungia su Username ir Password
+	Authentikacijai naudoti www.firebase.com
+    Autorizacija:
+        Useris gali atlikti CRUD operacijas tik su tais resursais, kuriuos pats sukūrė
