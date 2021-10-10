@@ -259,7 +259,7 @@
 
     Kodas turi būti išskirstytas per atitinkamus projektus
 
-## LECTURE 53 - 2021.09.22
+## LECTURE 53 - 58 - 2021.09.22
 
 ## LINKS
     Firebase - https://firebase.google.com/
@@ -295,3 +295,12 @@
 	Authentikacijai naudoti www.firebase.com
     Autorizacija:
         Useris gali atlikti CRUD operacijas tik su tais resursais, kuriuos pats sukūrė
+	
+
+## LECTURE 59 - 2021.10.03
+
+## LINKS
+    Mocking - https://www.youtube.com/watch?v=9ZvDBSQa_so
+    Unit testing basics - https://www.youtube.com/watch?v=2Wp8en1I9oQ
+    TDD - https://www.youtube.com/watch?v=y8TcPr73Bwo
+    FluentAssertions - https://www.youtube.com/watch?v=b2zxl5zNjlA
