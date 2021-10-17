@@ -297,10 +297,39 @@
         Useris gali atlikti CRUD operacijas tik su tais resursais, kuriuos pats sukūrė
 	
 
-## LECTURE 59 - 2021.10.03
+## LECTURE 59-65 - 2021.10.03
 
 ## LINKS
     Mocking - https://www.youtube.com/watch?v=9ZvDBSQa_so
     Unit testing basics - https://www.youtube.com/watch?v=2Wp8en1I9oQ
     TDD - https://www.youtube.com/watch?v=y8TcPr73Bwo
     FluentAssertions - https://www.youtube.com/watch?v=b2zxl5zNjlA
+    
+## LECTURE 66 - 2021.10.14
+
+## LINKS
+    ASP.NET Core MVC - https://www.youtube.com/watch?v=Pi46L7UYP8I
+                       https://www.youtube.com/watch?v=BfEjDD8mWYg
+
+## LECTURE 67 - 2021.10.17
+
+## FINAL PROJECT
+
+    BankingApp:
+      - User can register/login
+      - User can send/receive money
+      - User can TopUp his account
+      - User can track account balance
+      - User can view his transactions history
+    
+    Extra ideas:
+      - User can request money from another user
+      - Implement transaction fees
+      - Implement cards
+      - Implement transactions sorting
+      - Be creative!
+      
+    Example apps: Revolut, N26, etc...
+    
+## LINKS
+    Revolut - http://www.boussiasconferences.gr/files/_boussias_conferences_content/presentations/digitalbanking_cy/2019/dimitris_litsikakis_digibanking_cy19.pdf
