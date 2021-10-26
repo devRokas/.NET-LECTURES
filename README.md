@@ -311,7 +311,7 @@
     ASP.NET Core MVC - https://www.youtube.com/watch?v=Pi46L7UYP8I
                        https://www.youtube.com/watch?v=BfEjDD8mWYg
 
-## LECTURE 67 - 2021.10.17
+## LECTURE 67-71 - 2021.10.17
 
 ## FINAL PROJECT
 
@@ -333,3 +333,8 @@
     
 ## LINKS
     Revolut - http://www.boussiasconferences.gr/files/_boussias_conferences_content/presentations/digitalbanking_cy/2019/dimitris_litsikakis_digibanking_cy19.pdf
+    
+## LECTURE 72 - 2021.10.26
+## LINKS
+    Clean code slides - https://docs.google.com/presentation/d/1KtOJz-YET9tTSdk6hiy7oehcFPAGQrBSAtfFERuBwk8/edit#slide=id.g4d1155224b_0_110
+    Clean code video - https://www.youtube.com/watch?v=ZihKWQXRBmE
