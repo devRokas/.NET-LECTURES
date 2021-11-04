@@ -335,6 +335,20 @@
     Revolut - http://www.boussiasconferences.gr/files/_boussias_conferences_content/presentations/digitalbanking_cy/2019/dimitris_litsikakis_digibanking_cy19.pdf
     
 ## LECTURE 72 - 2021.10.26
+
 ## LINKS
     Clean code slides - https://docs.google.com/presentation/d/1KtOJz-YET9tTSdk6hiy7oehcFPAGQrBSAtfFERuBwk8/edit#slide=id.g4d1155224b_0_110
     Clean code video - https://www.youtube.com/watch?v=ZihKWQXRBmE
+    
+## LECTURE 73-74 - 2021.10.27
+
+## LINKS
+    GildedRose Kata - https://github.com/emilybache/GildedRose-Refactoring-Kata
+    Refactoring Katas - https://kata-log.rocks/refactoring
+
+## LECTURE 75 - 2021.10.31
+
+## LINKS
+    - OOP interview questions - https://www.c-sharpcorner.com/article/oops-interview-questions-c-sharp/
+    - C# interview questions - https://www.guru99.com/c-sharp-interview-questions.html
+    - LeetCode - https://leetcode.com/
